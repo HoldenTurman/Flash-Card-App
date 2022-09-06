@@ -4,6 +4,7 @@ A frontend web application created as my final capstone for Thinkful's frontend 
 <br>
 
 <h2>Usage</h2>
+Fork and Clone Repository<br>
 npm i<br>
 npm start<br>
 Servers will start on localhost:3000<br>
