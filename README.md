@@ -1,5 +1,12 @@
 <h1>Thinkful Capstone: FlashCard App</h1>
-A frontend web application created as my final capstone for Thinkful's frontend portion.<br>
+Description:
+
+This is a flash card study application. Allowing students to create decks and add cards to those decks. The cards have the question on the front and flips over to the back with the answer.\
+
+The purpose for this project was to create a web application that can help myself and others study more efficiently.
+
+
+Development Environment JavaScript/React/HTML/CSS was used to create this program.<br>
 <br>
 <br>
 
